@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: raj457036.github.io
-Token: 072e4f697bd1f68df105563ffd5284f4c8d4660f2b651991064fe1c5c30e0642
+Token: f48d5c638cfdb098a629f88c83b1d7f03d7d4ec0078c48a406aed351626a125b
